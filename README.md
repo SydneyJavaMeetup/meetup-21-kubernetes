@@ -30,10 +30,6 @@ https://circulareconomysystems.com/
 ### Intro
 Program
 
-Quick acknowledgement of Circular Economy Systems (CES)!  
-
-Thanks for having us! (Oz intro)  
-
 Ethos, vibe
 * openness
 * inclusiveness
@@ -41,6 +37,10 @@ Ethos, vibe
 * no experts, we're a community of peers all learning together
 * supportiveness, we're here for each other
 
+Quick acknowledgement of Circular Economy Systems (CES)!  
+Thanks for having us!  
+ (Oz intro)  
+ (Max baby).  
 
 # Links
 
