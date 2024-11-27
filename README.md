@@ -41,9 +41,6 @@ Ethos, vibe
 * no experts, we're a community of peers all learning together
 * supportiveness, we're here for each other
 
-### Job Shouts
-“Before we get into the tech talks, are there any job shoutouts?”
-
 
 # Links
 
