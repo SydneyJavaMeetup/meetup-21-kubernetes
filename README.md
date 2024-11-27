@@ -32,7 +32,7 @@ Program
 
 Quick acknowledgement of Circular Economy Systems (CES)!  
 
-Thanks for having us!
+Thanks for having us! (Oz intro)  
 
 Ethos, vibe
 * openness
