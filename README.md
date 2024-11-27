@@ -13,12 +13,12 @@ Agenda:
 6:30pm - Event Intro and Job Shouts  
 
 6:35pm - Using dynamic passwords with postgres, Spring Boot and Vault inside a Kubernetes cluster  
-- Martin Hodges – Lead Developer, CES  
+\- Martin Hodges – Lead Developer, CES  
 
 7:00pm - 15 minute break  
 
 7.15pm - Implement a highly available stack in the cloud with Kubernetes, Coherence and Helidon  
-- Ali Mukadem, Senior Principal Product Manager – Helidon, Oracle  
+\- Ali Mukadem, Senior Principal Product Manager – Helidon, Oracle  
 
 8pm Event Finish  
 
